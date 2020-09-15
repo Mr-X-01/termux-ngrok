@@ -50,7 +50,7 @@ echo "${k}██║╚██╗██║██║   ██║██╔══█�
 echo "${k}██║ ╚████║╚██████╔╝██║  ██║╚██████╔╝██║  ██╗";
 echo "${k}╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝";
 echo
-echo "Command example (ngrok http 80 \ nOr ngrok for help)"
+echo "Command example (ngrok http 80 \nOr ngrok for help)"
 ;;
 
 n)
