@@ -1,4 +1,7 @@
-#!/bin/dash
+# Author: Mr-X-01
+# Telegram: @Mrxanon
+# https://github.com/Mr-X-01
+
 update='\033[1;32m'
 echo "$update Updating repository..."
 apt update && upgrade -y
